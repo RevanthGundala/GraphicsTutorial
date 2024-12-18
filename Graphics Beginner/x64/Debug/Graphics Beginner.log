@@ -1,12 +1,4 @@
 ﻿  first_app.cpp
-  lve_window.cpp
   main.cpp
-C:\Users\revan\source\repos\Graphics Beginner\Graphics Beginner\lve_window.cpp(4,13): error C2084: function 'lve::LveWindow::LveWindow(int,int,std::string)' already has a body
-      C:\Users\revan\source\repos\Graphics Beginner\Graphics Beginner\lve_window.h(13,3):
-      see previous definition of '{ctor}'
-  
-C:\Users\revan\source\repos\Graphics Beginner\Graphics Beginner\lve_window.cpp(10,14): error C2084: function 'lve::LveWindow::~LveWindow(void)' already has a body
-      C:\Users\revan\source\repos\Graphics Beginner\Graphics Beginner\lve_window.h(19,4):
-      see previous definition of '{dtor}'
-  
   Generating Code...
+  Graphics Beginner.vcxproj -> C:\Users\revan\source\repos\Graphics Beginner\x64\Debug\Graphics Beginner.exe
